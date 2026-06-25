@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BFS_ListaAd
 {
-    internal class GrafoBFS
+    internal class GrafoBFS 
     {
         private int v;
         private ListEnlDoble[] adj;
